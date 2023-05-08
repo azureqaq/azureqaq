@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [xigmanas](https://www.3moredays.com/2022-11-28-xigmanas/)
+- [iamtxt tool](https://www.3moredays.com/2022-11-28-iamtxt-tool/)
+- [Flutter basic tutorial](https://www.3moredays.com/2022-11-21-learn-flutter/)
+- [How to build a blog site](https://www.3moredays.com/2022-11-20-how-to-build-a-blog-site/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
